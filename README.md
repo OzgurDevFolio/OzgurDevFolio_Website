@@ -1,46 +1,33 @@
-# 01 // ÖZGÜR DEMİRBACAK
-### Front-End Architect & Interface Designer
+# Hello there! I'm Özgür 👋
 
-> "The difference between a good product and a great one is the last 5% of polish. I live in that 5%."
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=60&section=footer" width="100%"/>
+</p>
 
----
+> Building scalable systems that solve real-world problems with elegant code.
 
-### 🧬 THE PHILOSOPHY
-I don't just write code; I build digital experiences. My approach to development is rooted in three core pillars that go beyond what you'll see on my LinkedIn:
-
-* **Performance First:** Fast load times and 60fps transitions are non-negotiable.
-* **Scalable Architecture:** Writing clean, modular **TypeScript** that stays maintainable as the project grows.
-* **Pixel Perfection:** Bridging the gap between Figma designs and production code with 1:1 accuracy.
-
-
----
-### 🕹️ CURRENT WORKBENCH
-| Project | Focus | Status |
-| :--- | :--- | :--- |
-| **[SnapGram](https://github.com/OzgurDevFolio/SnapGram-SocialApp)** | Social Engineering & UX | `Stable` |
-| **[YouTube-Clone](https://github.com/OzgurDevFolio/Youtube-Clone)** | Complex Data Fetching | `Completed` |
-| **[OzgurDevFolio](https://github.com/OzgurDevFolio/OzgurDevFolio)** | Interaction Design | `V2.0` |
-
+- 👨‍💻 **About Me**: ✨ Crafting robust web applications with modern frameworks.
+- 🚀 **Specialization**: Full-stack development & DevOps practices.
+- 🌱 **Learning**: Currently exploring cloud-native architectures & Kubernetes.
+- 💡 **Passion**: Clean code & performance optimization.
+- 📫 **Reach me**: scalvate@gmail.com
 
 ---
 
-### 🛠️ TECHNICAL ARSENAL
-```javascript
-const developer = {
-  core: ["TypeScript", "JavaScript", "React", "Next.js"],
-  styling: ["TailwindCSS", "MUI", "Styled-Components", "Framer Motion"],
-  backend_lite: ["Appwrite", "Firebase", "Node.js"],
-  tools: ["Git", "Figma", "Vercel", "Postman"]
-};
-```
----
+### 🛠️ Tech Stack
 
-### 📡 CONNECT & COLLABORATE
-
-I'm currently looking for opportunities where I can push the boundaries of **React** and **UI design**. If you're looking for a developer who cares about the user as much as the code, let’s talk.
-
-* 💼 **LinkedIn:** [ozgurdemirbacak](https://www.linkedin.com/in/ozgurdemirbacak/)
-* ✉️ **Email:** [scalvate@gmail.com](mailto:scalvate@gmail.com)
-* 📸 **Instagram:** [@ozgur_dmrbck](https://www.instagram.com/ozgur_dmrbck/)
+| Category | Tools & Technologies |
+| :--- | :--- |
+| **📱 Frontend** | ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB) ![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white) ![Next.js](https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white) |
+| **⚙️ Backend** | ![NodeJS](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white) ![Express](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)  |
+| **☁️ DevOps** | ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![CI/CD](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white) |
+| **🗄️ Database** | ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) |
 
 ---
+
+
+### 🌐 Connect With Me
+<p align="left">
+  <a href="https://linkedin.com/in/ozgurdemirbacak" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="https://instagram.com/ozgur_dmrbck" target="blank"><img align="center" src="https://img.shields.io/badge/Instagram-1DA1F2?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" /></a>
+</p>
